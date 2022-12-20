@@ -2,7 +2,7 @@
 
 This is an updated version of HLTVDemoDownloader created by ReagentX. https://github.com/ReagentX/HLTVDemoDownloader
 
-This would not have been possible for me to do without this so huge thanks to him for that! 
+This would not have been possible for me to do without the original version so huge thanks to him for that! 
 
 A few changes from the Reagent's version (henceforth referred to as the original) :  
 
